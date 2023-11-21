@@ -1,0 +1,6 @@
+# in base directory.. build and run app
+docker build -t house-price-prediction-app .
+docker run -p 80:80 house-price-prediction-app
+
+# find model api in browser
+http://0.0.0.0/docs

@@ -1,0 +1,3 @@
+model/model.pkl
+model/zipcode_demographics.csv
+*.pyc
